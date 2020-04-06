@@ -1,0 +1,38 @@
+        body {
+            background-color: darkkhaki;
+        }
+       .navbar-brand a {
+            text-decoration: none;
+            color:black;
+        }
+        .navbar-brand h1 {
+            color:lightgray;
+            font-size: 1.5em;
+        }
+        #header-nav {
+            background-color: darkmagenta;
+            width: 100%;
+            border-bottom: 5px solid black;
+        }
+        .roundedCorner {
+            border-radius: 5px 5px 5px 5px;
+        }
+        .menuSelected {
+            background-color: cadetblue;
+            width: 100%;
+            padding-left: 45px;
+        }
+        .paddedContent {
+            padding-left: 20px;
+            background-color: yellow;
+            margin: 20px;
+        }
+        #maincontent {
+            padding: 0px;
+            margin: 0px;
+            border: 0px;
+        }
+        .menuLink {
+            text-decoration: none;
+            color: black;  
+        } 
